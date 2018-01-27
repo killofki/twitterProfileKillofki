@@ -1,7 +1,7 @@
 function(☎
 ,ø=undefined){return([[
-[zone,flow,🤔,…🐦s],/(re)?🐦/],[
+[zone,flow,🤔,…🐦s],/🔂?🐦/],[
 [📜,💥,...★s],/(★|♥)/]]
 .some(([📚,🍞])⇒📚 .some(▶⇒▶(☎)?🍞:ø))||ø
-);}
-//easyBow killofki@.
+);} // ⇒ '=\x32' 
+//easyBow killofki@. 
