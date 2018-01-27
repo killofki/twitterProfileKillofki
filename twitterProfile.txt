@@ -1,1 +1,5 @@
-지역이나 전달, 또는 제 주관은 (리)트윗, 스크립트나 특이점등은 관심글입니다. easyBow killofki@.
+(evt,sel=(a,r)=>a
+.some(F=>F(evt)&&r)=>(sel(
+[zone,flow,think,...twts],/(re)?twit/)||sel(
+[js,it,...favs],/(favo|likes)/)||undefined);
+// easyBow killofki@.
