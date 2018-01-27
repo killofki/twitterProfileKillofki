@@ -1,2 +1,2 @@
-(ⓔ,sel=(a,r)⇒a .some(F⇒F(ⓔ)?r:u,u=undefined)⇒(sel( [zone,flow,see,…twts],/(re)?twit/)||sel( [js,it,…favs],/(favo|likes)/)||u);
+(☎,ⓢ=(a,r)⇒a .some(▶⇒▶(☎)?r:u,u=undefined)⇒(ⓢ( [zone,flow,see,…🐦s],/(re)?🐦/)||ⓢ( [📜,it,...★s],/(★|♥)/)||u);
 //easyBow killofki@.
