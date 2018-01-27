@@ -1,5 +1,1 @@
-(evt,sel=(a,r)=>a
-.some(F=>F(evt)&&r)=>(sel(
-[zone,flow,think,...twts],/(re)?twit/)||sel(
-[js,it,...favs],/(favo|likes)/)||undefined);
-// easyBow killofki@.
+(ⓔ,sel＝(a,r)⇒a .some(F⇒F(ⓔ)?r:u,u＝undefined)⇒(sel( [zone,flow,see,…twts],⁄(re)?twit⁄)‖sel( [js,it,…favs],⁄(favo∣likes)⁄)‖u); ⁄⁄easyBow killofki@.
